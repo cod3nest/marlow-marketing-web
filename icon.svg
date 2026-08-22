@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Marlow mark: the "M" as a trace on the signal ground. Geometry mirrors
+     packages/ui/src/components/Logo.tsx — keep in step. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 546 546" width="2000" height="2000">
+  <rect width="546" height="546" rx="34" fill="#A8874F"/>
+  <path d="M98 450 V144 L273 373 L448 144 V450" fill="none" stroke="#1A1713" stroke-width="71" stroke-linejoin="miter" stroke-linecap="square"/>
+</svg>
